@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Main {
 
-   static SongPlaylist lst = new SongPlaylist();
+   static Songlist lst = new Songlist();
 
    public static void main(String[] args) throws IOException {
 	   String[] file = { "C:\\JAVA\\Lab-4\\week1.csv", "C:\\JAVA\\Lab-4\\week2.csv",

@@ -1,6 +1,6 @@
-public class SongPlaylist {
+public class Songlist {
    public Song root; // root node of BST
-   public SongPlaylist() {
+   public Songlist() {
        root = null;
    }
    // returns whether BST is empty
